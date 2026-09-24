@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm James Lourenze 👋
 
-<!--
-**JamesLourenzeJeresano/JamesLourenzeJeresano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Education:** 2nd Year IT Student
+- 🎯 **Career Focus:** Aspiring Quality Assurance (QA) Tester & Web Developer
+- 🌱 **Currently Learning:** HTML, CSS, JavaScript, and Software Testing Fundamentals
+- 📚 **Courses Taken:** Harvard CS50x / CS50 Web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6)
+- **QA & Testing:** Manual Testing, Test Case Preparation, Bug Reporting, Chrome DevTools
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🧪 QA & Web Projects (In Progress)
+
+- 📄 **QA Test Documentation** - *(Upcoming)* Sample Test Plans, Test Cases, and Bug Reports for real web apps.
+- 🌐 **Web Development Practice** - HTML, CSS, and JS mini-projects and CS50 lab exercises.
+
+---
+
+📫 **Connect with me:** jameslourenzej@gmail.com
